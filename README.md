@@ -35,6 +35,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=caetanopf&show_icons=true&hide_border=true&locale=en" alt="caetanopf" /></p>
 
-<p><img align="center" src="https://github-readme-stats.herokuapp.com/?user=caetanopf&theme=default" alt="caetanopf" /></p>
-
 ### 
