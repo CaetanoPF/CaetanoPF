@@ -31,9 +31,6 @@
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caetanopf&show_icons=true&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="caetanopf" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=caetanopf&show_icons=true&hide_border=true&locale=en" alt="caetanopf" /></p>
