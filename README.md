@@ -1,7 +1,7 @@
 <br clear="both">
 
-<h1 align="center">Olá 👋, sou Caetano</h1>
-<h3 align="center">Um estudante desenvolvedor do Brasil</h3>
+<h1 align="center">Hi 👋! My name is Caetano</h1>
+<h3 align="center">A developer student from Brasil</h3>
 
 ###
 
